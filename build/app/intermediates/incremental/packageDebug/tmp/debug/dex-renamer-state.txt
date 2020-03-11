@@ -1,4 +1,4 @@
-#Sun Mar 08 13:01:32 CET 2020
-base.0=C\:\\Users\\Mateus Barbosa\\Documents\\Hackathon_BRASA\\NuClone\\nubank-clone\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+#Wed Mar 11 01:39:40 CET 2020
+base.0=C\:\\Users\\Mateus Barbosa\\Documents\\Hackathon_BRASA\\test_hello\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
